@@ -1,0 +1,7 @@
+|CTAG_1663167284_18455859_4204_0
+git --version
+php -v
+mysql --version
+node -v
+npm -v
+nginx -v

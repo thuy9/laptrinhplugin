@@ -1,0 +1,24 @@
+To: chuthithuy9@gmail.com
+Subject: New WordPress Site
+Date: Sun, 12 May 2024 12:45:27 +0000
+From: WordPress <wordpress@university.test>
+Message-ID: <VsP81BA9AlJFcnhiwgIXg8278R9ihwCPCLnKJ2yMvs@university.test>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Your new WordPress site has been successfully set up at:
+
+http://university.test
+
+You can log in to the administrator account with the following information:
+
+Username: admin
+Password: The password you chose during installation.
+Log in here: http://university.test/wp-login.php
+
+We hope you enjoy your new site. Thanks!
+
+--The WordPress Team
+https://wordpress.org/
+
